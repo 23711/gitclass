@@ -13,6 +13,8 @@ section {
     width: 80%;
     height: 100%;
     border: 2px solid black;
+    display: flex;
+    justify-content: center;
 }
 header{
     width: 100%;
