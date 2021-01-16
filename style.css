@@ -23,3 +23,6 @@ header{
 main {
     padding: 2rem;
 }
+footer {
+    background-color: rgb(6, 201, 250);
+}
