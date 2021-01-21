@@ -26,5 +26,7 @@ main {
     padding: 2rem;
 }
 footer {
-    background-color: rgb(6, 201, 250);
+    background-color: rgb(18, 53, 129);
+    position: relative;
+    padding: 2rem;
 }
